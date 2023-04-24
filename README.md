@@ -1,1 +1,1 @@
-# website
+# sample static website
